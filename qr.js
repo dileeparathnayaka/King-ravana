@@ -1,9 +1,9 @@
-/* Copyright (C) 2021 Queen Amdi.
+/* Copyright (C) 2021 KING RAVANA.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-Queen Amdi - Black Amda
+KING RAVANA-DILEEPA RATHNAYAKA
 */
 
 
@@ -12,7 +12,7 @@ const {WAConnection} = require('@adiwajshing/baileys');
 const {StringSession} = require('./queenamdi/');
 const fs = require('fs');
 
-async function queenAmdi () {
+async function KING RAVANA () {
     const conn = new WAConnection();
     const Session = new StringSession();  
     conn.version = [2, 2126, 14]
@@ -21,7 +21,7 @@ async function queenAmdi () {
     
     conn.on('🔄 connecting', async () => {
         console.log(`${chalk.green.bold('Queen')}${chalk.blue.bold(' Amdi')}
-${chalk.white.italic('Queen Amdi Sting session')}
+${chalk.white.italic('KING RAVANA Sting session')}
 
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
     });
@@ -30,14 +30,14 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
 	conn.on('open', async () => {
 		console.log(
 			chalk.green.bold('King ravana QR CODE: '),
-			'AMDI;;;' +
+			'RAVANA;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
 				)
 		);
 		await conn.sendMessage(
 			conn.user.jid,
-			'AMDI;;;' +
+			'RAVANA;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
 				),
