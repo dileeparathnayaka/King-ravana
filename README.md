@@ -40,7 +40,7 @@ https://chat.whatsapp.com/GS7ZfzGCajz8Jylj2NqsZH
   (👇tap to link and scan QR code and get code👇)
 https://replit.com/@KgAmda/KingRvana?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fyusufusta%2FWhatsAsena&template=https%3A%2F%2Fgithub.com%2FQuiec%2FWhatsAsena)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/slDILEEPA)
      </div>
 ### ⚠️ Warning! 
 ```
