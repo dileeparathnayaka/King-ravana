@@ -17,11 +17,11 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 ## 📢 Guide
-Click Whatsapp logo to Join Support Group 👇
+Click Whatsapp link to Join Support Group 👇
 <br>
 <br>
   [
-[![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)https://chat.whatsapp.com/GS7ZfzGCajz8Jylj2NqsZH
+https://chat.whatsapp.com/GS7ZfzGCajz8Jylj2NqsZH
   <div align="center">
        
   </div>
