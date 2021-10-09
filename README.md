@@ -6,7 +6,7 @@
   <p align="center">
 
     
-       | © | Reserved |
+       | © | made by dileepa |
     
     
 ### ⚠️ Warning! 
