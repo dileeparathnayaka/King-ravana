@@ -10,11 +10,8 @@
     
     
 ### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+```මෙක ඔයාලා බාවිත කරද්දි (.ban )කමාන්ඩ් එක වැඩිය බාවිත කරන්න එපා 
+එතකොට whatsapp කම්පැනිය ඔයාගෙ නම්බරෙ බැන් කරනවා.
 ```
 ## 📢 Guide
 Click Whatsapp link to Join Support Group 👇
@@ -37,7 +34,7 @@ https://chat.whatsapp.com/GS7ZfzGCajz8Jylj2NqsZH
 <div align="center">
 
   ### Simple Method
-  (👇tap to link and scan QR code and get code👇)
+  (👇tap to link and scan QR code and get code)
 https://replit.com/@KgAmda/KingRvana?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/slDILEEPA)
