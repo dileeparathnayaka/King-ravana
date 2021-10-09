@@ -24,7 +24,7 @@ Click Whatsapp link to Join Support Group 👇
 <br>
   
 
-[![join](https://telegra.ph/file/88b996473fc4c82dd0810.png)(https://chat.whatsapp.com/GS7ZfzGCajz8Jylj2NqsZH)
+[![join][(https://telegra.ph/file/88b996473fc4c82dd0810.png)](https://chat.whatsapp.com/GS7ZfzGCajz8Jylj2NqsZH)
   <div align="center">
        
   </div>
