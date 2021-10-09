@@ -53,7 +53,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![YASAS DILEEPA](https://github.com/yasasdileepa.png?size=100)](https://github.com/yasasdileepa) [![adisha lakshitha](https://github.com/adisha.png?size=100)(https://github.com/yasasdileepa.png?size=100
+  [![YASAS DILEEPA](https://github.com/yasasdileepa.png?size=100)](https://github.com/yasasdileepa) [![adisha lakshitha](https://github.com/adisha.png?size=50)(https://github.com/yasasdileepa.png?size=100
 ----|----|----
 [YASAS-DILEEPA](https://github.com/yasasdileepa)
 Make Full Help| Modifiying  as   public | Bug Fixes, Modules
