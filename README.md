@@ -30,9 +30,6 @@ Click Whatsapp photo to Join Support Group 👇
   </div>
   
   ## 💕ravana bot විශේෂාංග
-💕ravana bot විශේෂාංග මෙන්න.
-<a href="https://github.com/yasasdileepa/SL-maraya">
-    <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
   </a>
 ## Setup
