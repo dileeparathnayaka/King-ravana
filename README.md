@@ -1,5 +1,7 @@
 #      RAVANA BOT ලංකාවේ 🇱🇰 සිංහල බොටෙක් {made by dileepa}
 
+[![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
+  
 
 <div align="center">
   <img border-radius: 50px src="https://telegra.ph/file/7de56858209649d760d99.jpg" >
