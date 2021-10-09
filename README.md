@@ -20,7 +20,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 Click Whatsapp link to Join Support Group 👇
 <br>
 <br>
-  [
+  
+
 https://chat.whatsapp.com/GS7ZfzGCajz8Jylj2NqsZH
   <div align="center">
        
