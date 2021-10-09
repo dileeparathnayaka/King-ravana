@@ -37,7 +37,7 @@ https://chat.whatsapp.com/GS7ZfzGCajz8Jylj2NqsZH
 <div align="center">
 
   ### Simple Method
-  
+  (👇tap to link and scan QR code and get code👇)
 https://replit.com/@KgAmda/KingRvana?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RAVANA-SL/slRavana)
