@@ -38,7 +38,7 @@ https://chat.whatsapp.com/GS7ZfzGCajz8Jylj2NqsZH
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)]https://replit.com/@KgAmda/KingRvana?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)https://replit.com/@KgAmda/KingRvana?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RAVANA-SL/slRavana)
      </div>
