@@ -1,4 +1,4 @@
-#      MARAYA BOT ලංකාවේ🇱🇰 සිංහල බොටෙක් {made by dileepa}
+#      RAVANA BOT ලංකාවේ🇱🇰 සිංහල බොටෙක් {made by dileepa}
 
 
 <div align="center">
@@ -25,7 +25,7 @@ Click Whatsapp logo to Join Support Group 👇
        
   </div>
   
-  ## 💕Maraya bot විශේෂාංග
+  ## 💕ravana bot විශේෂාංග
 💕Maraya bot විශේෂාංග මෙන්න.
 <a href="https://github.com/yasasdileepa/SL-maraya">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
