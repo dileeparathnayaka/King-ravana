@@ -26,7 +26,7 @@ https://chat.whatsapp.com/GS7ZfzGCajz8Jylj2NqsZH
   </div>
   
   ## 💕ravana bot විශේෂාංග
-💕Maraya bot විශේෂාංග මෙන්න.
+💕ravana bot විශේෂාංග මෙන්න.
 <a href="https://github.com/yasasdileepa/SL-maraya">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
