@@ -1,5 +1,7 @@
 #      RAVANA BOT ලංකාවේ 🇱🇰 සිංහල බොටෙක් {made by dileepa}
 
+[![Profile views](https://komarev.com/ghpvc/?username=king-ravana-SL&label=Profile%20Views&color=red)]()
+
 [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
   
 
