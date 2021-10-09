@@ -19,7 +19,7 @@
  එතකොට whatsapp කම්පැනිය ඔයාගෙ නම්බරෙ බැන් කරනවා.
 ```
 ## 📢 Guide
-Click Whatsapp link to Join Support Group 👇
+Click Whatsapp photo to Join Support Group 👇
 <br>
 <br>
   
