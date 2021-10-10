@@ -36,6 +36,7 @@ Click Whatsapp photo to Join Support Group 👇
 <div align="center">
 
   ### Simple Method
+මෙ රුපය ටච් කරන්න✓👇
      
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KgAmda/KingRvana?v=1)
 
