@@ -36,9 +36,8 @@ Click Whatsapp photo to Join Support Group 👇
 <div align="center">
 
   ### Simple Method
- (tap and get QR code)
- 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/RAVANA)](https://replit.com/@KgAmda/KingRvana?v=1)
+     
+[![Deploy](resources/gif/IMG_20210724_012025.png?size=40)](https://replit.com/@KgAmda/KingRvana?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/slDILEEPA)
      </div>
