@@ -41,7 +41,7 @@ Click Whatsapp photo to Join Support Group 👇
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KgAmda/KingRvana?v=1)
 
 
-
+ඩිප්ලො කිරිමට👇
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/slDILEEPA)
      </div>
