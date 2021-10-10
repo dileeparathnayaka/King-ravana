@@ -37,7 +37,6 @@ Click Whatsapp photo to Join Support Group 👇
 
   ### Simple Method
      
-     
 [![Run on Repl.it](resources/gif/qr-scan.gif?size=40)](https://replit.com/@KgAmda/KingRvana?v=1)
 
 
